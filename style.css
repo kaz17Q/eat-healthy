@@ -35,15 +35,76 @@ h1 {
 }
 
 /* second section-------------------- */
-.second-section{
+.second-section {
     background-image: url(images/shapes/Frame\ 58.jpg);
     margin-top: 100px;
+}
+.sec-img img{
+    width: 80%;
 }
 
 .second {
     padding-left: 15px;
     margin-top: 100px;
 }
-.second p{
-     margin-bottom:80px ;
+
+.second p {
+    margin-bottom: 80px;
+}
+
+/* *****3rd section------------------####--------- */
+.my-recipies {
+    text-align: center;
+}
+
+/* 4th section****************-------------------------- */
+.food-card {
+    display: flex;
+}
+
+.sec-four {
+    margin: 5%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    padding: 10px;
+    width: 40%;
+}
+
+.sec-four img {
+    width: 70%;
+    border-radius: 10px;
+
+}
+
+/* 5th section------------------------- */
+.fifth-sec {
+    box-shadow: 10px 10px 40px gray;
+    justify-content: space-evenly;
+    display: flex;
+
+}
+
+/* six section----------------------- */
+.six-sec {
+
+    background-color: black;
+    height: 150px;
+}
+
+.footy {
+    padding-top: 20px;
+}
+
+footer {
+    
+    text-align: center;
+
+    color: white;
+}
+
+footer p {
+    font-size: 7px;
+}
+span{
+    color: orange;
 }
